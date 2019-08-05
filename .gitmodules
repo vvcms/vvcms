@@ -1,0 +1,3 @@
+[submodule "modules/mod_internet_home"]
+	path = modules/mod_internet_home
+	url = https://github.com/vvcms/module_internet_home.git
